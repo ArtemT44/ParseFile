@@ -7,7 +7,7 @@ public class Openfile {
         String filetoparse = "./src/test/java/fileToParse.txt";
         openFile(filetoparse);
     }
-//pft,fkj
+
     private static void openFile(String Name) throws FileNotFoundException {
         StringBuilder stringbuilder = new StringBuilder();
         File file = new File(Name);

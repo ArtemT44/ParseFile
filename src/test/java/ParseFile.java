@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Openfile {
+public class ParseFile {
 
     public static void main(String[] args) throws FileNotFoundException {
         String filetoparse = "./src/test/java/fileToParse.txt";
